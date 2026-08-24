@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="AI-Powered Sales System for Claude Code" width="100%">
+  <img src="CrossBorder.png" alt="AI-Powered Sales System for Claude Code" width="100%">
 </p>
 
 <p align="center">
@@ -497,11 +497,3 @@ curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-sales-team-claud
 
 Removes all skills, agents, scripts, and templates from `~/.claude/`. Python packages are not removed.
 
----
-
-<p align="center">
-  <strong>MIT License</strong> · Copyright (c) 2026 Zubair Trabzada
-  <br><br>
-  <a href="https://github.com/zubair-trabzada/ai-sales-team-claude/issues">Report Bug</a> ·
-  <a href="https://github.com/zubair-trabzada/ai-sales-team-claude/issues">Request Feature</a>
-</p>
