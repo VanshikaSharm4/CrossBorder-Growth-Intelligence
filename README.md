@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="banner.svg" alt="AI Sales Team for Claude Code" width="100%">
+  <img src="banner.svg" alt="AI-Powered Sales System for Claude Code" width="100%">
 </p>
 
 <p align="center">
   <a href="#quick-start"><img src="https://img.shields.io/badge/install-one--liner-blue?style=for-the-badge" alt="Install"></a>
   <a href="#commands"><img src="https://img.shields.io/badge/14_skills-ready-8b5cf6?style=for-the-badge" alt="14 Skills"></a>
   <a href="#how-it-works"><img src="https://img.shields.io/badge/5_parallel-agents-22c55e?style=for-the-badge" alt="5 Agents"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-gray?style=for-the-badge" alt="MIT License"></a>
 </p>
 
 > **Your AI-powered sales team, running inside Claude Code.**
