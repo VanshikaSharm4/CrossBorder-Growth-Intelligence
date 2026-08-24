@@ -43,17 +43,9 @@ Full analysis saved to PROSPECT-ANALYSIS.md
 
 ## Quick Start
 
-### One-Command Install
-
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-sales-team-claude/main/install.sh | bash
-```
-
-### Manual Install
-
-```bash
-git clone https://github.com/zubair-trabzada/ai-sales-team-claude.git
-cd ai-sales-team-claude
+git clone https://github.com/VanshikaSharm4/CrossBorder-Growth-Intelligence.git
+cd CrossBorder-Growth-Intelligence
 ./install.sh
 ```
 
